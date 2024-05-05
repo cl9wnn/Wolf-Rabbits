@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Contract</name>
+    </assembly>
+    <members>
+        <!-- Badly formed XML comment ignored for member "T:Contract.AnimalType" -->
+        <!-- Badly formed XML comment ignored for member "F:Contract.AnimalType.Rabbit" -->
+        <member name="F:Contract.AnimalType.Wolf">
+             Волк
+             Контракт для взаимодействия
+             
+        </member>
+        <member name="F:Contract.AnimalType.None">
+             Пустая клетка
+             Контракт для взаимодействия
+             
+        </member>
+        <member name="F:Contract.AnimalType.Kill">
+             Животное умерло от перенаселения или одиночества
+             Контракт для взаимодействия
+             
+        </member>
+        <!-- Badly formed XML comment ignored for member "F:Contract.AnimalType.Eaten" -->
+        <!-- Badly formed XML comment ignored for member "T:Contract.IGameOfLife" -->
+        <!-- Badly formed XML comment ignored for member "M:Contract.IGameOfLife.StartSimulation(Contract.AnimalType[0:,0:])" -->
+        <!-- Badly formed XML comment ignored for member "M:Contract.IGameOfLife.InitializeField(System.Int32,System.Int32)" -->
+        <!-- Badly formed XML comment ignored for member "E:Contract.IGameOfLife.UpdateGridEvent" -->
+    </members>
+</doc>

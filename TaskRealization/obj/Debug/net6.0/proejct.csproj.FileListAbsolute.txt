@@ -1,0 +1,17 @@
+C:\Users\egor\Desktop\git\c#\proejct\bin\Debug\net6.0\proejct.exe
+C:\Users\egor\Desktop\git\c#\proejct\bin\Debug\net6.0\proejct.deps.json
+C:\Users\egor\Desktop\git\c#\proejct\bin\Debug\net6.0\proejct.runtimeconfig.json
+C:\Users\egor\Desktop\git\c#\proejct\bin\Debug\net6.0\proejct.dll
+C:\Users\egor\Desktop\git\c#\proejct\bin\Debug\net6.0\proejct.pdb
+C:\Users\egor\Desktop\git\c#\proejct\obj\Debug\net6.0\proejct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egor\Desktop\git\c#\proejct\obj\Debug\net6.0\proejct.AssemblyInfoInputs.cache
+C:\Users\egor\Desktop\git\c#\proejct\obj\Debug\net6.0\proejct.AssemblyInfo.cs
+C:\Users\egor\Desktop\git\c#\proejct\obj\Debug\net6.0\proejct.csproj.CoreCompileInputs.cache
+C:\Users\egor\Desktop\git\c#\proejct\obj\Debug\net6.0\proejct.dll
+C:\Users\egor\Desktop\git\c#\proejct\obj\Debug\net6.0\refint\proejct.dll
+C:\Users\egor\Desktop\git\c#\proejct\obj\Debug\net6.0\proejct.pdb
+C:\Users\egor\Desktop\git\c#\proejct\obj\Debug\net6.0\proejct.genruntimeconfig.cache
+C:\Users\egor\Desktop\git\c#\proejct\obj\Debug\net6.0\ref\proejct.dll
+C:\Users\egor\Desktop\git\c#\proejct\bin\Debug\net6.0\Contract.dll
+C:\Users\egor\Desktop\git\c#\proejct\obj\Debug\net6.0\proejct.csproj.AssemblyReference.cache
+C:\Users\egor\Desktop\git\c#\proejct\obj\Debug\net6.0\proejct.csproj.Up2Date

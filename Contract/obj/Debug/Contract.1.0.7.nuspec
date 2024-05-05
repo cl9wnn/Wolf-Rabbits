@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Contract</id>
+    <version>1.0.7</version>
+    <authors>Contract</authors>
+    <description>Package Description</description>
+    <releaseNotes>Add new contracts</releaseNotes>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\egor\Desktop\git\c#\Contract\bin\Debug\net6.0\Contract.dll" target="lib\net6.0\Contract.dll" />
+    <file src="C:\Users\egor\Desktop\git\c#\Contract\bin\Debug\net6.0\Contract.xml" target="lib\net6.0\Contract.xml" />
+  </files>
+</package>

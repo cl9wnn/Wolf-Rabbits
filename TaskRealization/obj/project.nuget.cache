@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Au9kIGgWRYSgRLhy3eiBOkkBkjuqXlKGADT3lbmcgfKvJnmRSoUIOxE+lkhrMWURdoEcQRltCRXwv61iTe8TJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\egor\\Desktop\\git\\c#\\proejct\\proejct.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\egor\\.nuget\\packages\\contract\\1.0.10\\contract.1.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

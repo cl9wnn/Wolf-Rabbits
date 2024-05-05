@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\egor\\Desktop\\git\\projects\\Wolf-Rabbits\\GUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{024C54C1-EBDF-40F8-A12E-4217D8F7612F}|Simulation.csproj|c:\\users\\egor\\desktop\\git\\projects\\wolf-rabbits\\gui\\pages\\secondpage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{024C54C1-EBDF-40F8-A12E-4217D8F7612F}|Simulation.csproj|solutionrelative:pages\\secondpage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{024C54C1-EBDF-40F8-A12E-4217D8F7612F}|Simulation.csproj|c:\\users\\egor\\desktop\\git\\projects\\wolf-rabbits\\gui\\pages\\secondpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{024C54C1-EBDF-40F8-A12E-4217D8F7612F}|Simulation.csproj|solutionrelative:pages\\secondpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{024C54C1-EBDF-40F8-A12E-4217D8F7612F}|Simulation.csproj|c:\\users\\egor\\desktop\\git\\projects\\wolf-rabbits\\gui\\pages\\thirdpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{024C54C1-EBDF-40F8-A12E-4217D8F7612F}|Simulation.csproj|solutionrelative:pages\\thirdpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{024C54C1-EBDF-40F8-A12E-4217D8F7612F}|Simulation.csproj|c:\\users\\egor\\desktop\\git\\projects\\wolf-rabbits\\gui\\pages\\thirdpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{024C54C1-EBDF-40F8-A12E-4217D8F7612F}|Simulation.csproj|solutionrelative:pages\\thirdpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{024C54C1-EBDF-40F8-A12E-4217D8F7612F}|Simulation.csproj|c:\\users\\egor\\desktop\\git\\projects\\wolf-rabbits\\gui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{024C54C1-EBDF-40F8-A12E-4217D8F7612F}|Simulation.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{024C54C1-EBDF-40F8-A12E-4217D8F7612F}|Simulation.csproj|c:\\users\\egor\\desktop\\git\\projects\\wolf-rabbits\\gui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{024C54C1-EBDF-40F8-A12E-4217D8F7612F}|Simulation.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SecondPage.xaml",
+              "DocumentMoniker": "C:\\Users\\egor\\Desktop\\git\\projects\\Wolf-Rabbits\\GUI\\Pages\\SecondPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\SecondPage.xaml",
+              "ToolTip": "C:\\Users\\egor\\Desktop\\git\\projects\\Wolf-Rabbits\\GUI\\Pages\\SecondPage.xaml",
+              "RelativeToolTip": "Pages\\SecondPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-26T09:29:23.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SecondPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\egor\\Desktop\\git\\projects\\Wolf-Rabbits\\GUI\\Pages\\SecondPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\SecondPage.xaml.cs",
+              "ToolTip": "C:\\Users\\egor\\Desktop\\git\\projects\\Wolf-Rabbits\\GUI\\Pages\\SecondPage.xaml.cs",
+              "RelativeToolTip": "Pages\\SecondPage.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T09:31:10.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThirdPage.xaml",
+              "DocumentMoniker": "C:\\Users\\egor\\Desktop\\git\\projects\\Wolf-Rabbits\\GUI\\Pages\\ThirdPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\ThirdPage.xaml",
+              "ToolTip": "C:\\Users\\egor\\Desktop\\git\\projects\\Wolf-Rabbits\\GUI\\Pages\\ThirdPage.xaml",
+              "RelativeToolTip": "Pages\\ThirdPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-26T10:00:17.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThirdPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\egor\\Desktop\\git\\projects\\Wolf-Rabbits\\GUI\\Pages\\ThirdPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\ThirdPage.xaml.cs",
+              "ToolTip": "C:\\Users\\egor\\Desktop\\git\\projects\\Wolf-Rabbits\\GUI\\Pages\\ThirdPage.xaml.cs",
+              "RelativeToolTip": "Pages\\ThirdPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T09:59:51.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\egor\\Desktop\\git\\projects\\Wolf-Rabbits\\GUI\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\egor\\Desktop\\git\\projects\\Wolf-Rabbits\\GUI\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T17:10:48.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\egor\\Desktop\\git\\projects\\Wolf-Rabbits\\GUI\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\egor\\Desktop\\git\\projects\\Wolf-Rabbits\\GUI\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-29T11:30:29.068Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
