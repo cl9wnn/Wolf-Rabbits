@@ -1,1 +1,0 @@
-C:\Users\egor\Desktop\git\projects\Wolf-Rabbits\GUI\Simulation.csproj;x64
