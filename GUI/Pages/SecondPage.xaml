@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+			 BackgroundImageSource="life2.png"
+             x:Class="Simulation.SecondPage">
+
+	<ScrollView VerticalOptions="Center">
+		<StackLayout
+			x:Name="SecondLayout"
+			Spacing="30"
+			HorizontalOptions="Center">
+			<Label
+				Text="Введите размеры поля"
+				TextColor ="#1f3018"
+				FontSize="35"
+				FontAttributes="Bold"
+				SemanticProperties.HeadingLevel="Level9"
+				HorizontalOptions="CenterAndExpand" 
+			VerticalOptions="Center"
+				Margin="0,0,0,10"/>
+			<HorizontalStackLayout
+				HorizontalOptions="CenterAndExpand"
+				Margin="0,0,0,2"
+				Spacing="25">
+				<Entry
+					TextColor ="#1f3018"
+					BackgroundColor ="#70aace93"
+					x:Name="FirstEntry"
+					HorizontalOptions="Center"
+					VerticalOptions="Center"
+					HeightRequest ="75"
+					WidthRequest="75"
+					FontSize="40" />
+				<Label
+					Text="на"
+					TextColor ="#1f3018"
+					FontSize="40"
+					SemanticProperties.HeadingLevel="Level9"
+					HorizontalOptions="CenterAndExpand"
+				VerticalOptions="Center" />
+				<Entry
+					x:Name="SecondEntry"
+					TextColor ="#1f3018"
+					BackgroundColor ="#70aace93"
+					HorizontalOptions="Center"
+					VerticalOptions="Center"
+					HeightRequest ="75"
+					WidthRequest="75"
+					FontSize="40" 
+					/>
+			</HorizontalStackLayout>
+			<Button
+				x:Name="SendDataButton"
+			    BackgroundColor ="#70aace93"
+				Text="построить"
+				FontSize ="30"
+				HorizontalOptions="Center"
+				Clicked="OnBttnSetDataClicked"
+				VerticalOptions="Center"
+				WidthRequest="240"
+				HeightRequest ="70"
+/>
+		</StackLayout>
+	</ScrollView>
+</ContentPage>
